@@ -1,24 +1,5 @@
-# new-app
+# filter-condition
 
-## Project setup
-```
-npm install
-```
+## 无限层级条件筛选
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+[demo](https://sevenchan07.github.io/filter-condition/).
